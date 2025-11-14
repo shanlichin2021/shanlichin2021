@@ -39,7 +39,7 @@ These three projects demonstrate practical application of your specialized skill
 * **Focus:** A machine learning-driven Japanese analysis tool.
 * **Features:** Integrates **OCR-based text extraction**, multi-source **NLP consensus techniques**, and an interactive dictionary to facilitate advanced linguistic exploration.
 * **Timeline:** June 2025 - July 2025.
-* **Repository:** [shanlichin2021/ML-Japanese-Analysis-Tool](https://github.com/shanlichin2021/ML-Japanese-Analysis-Tool)
+* **Repository:** [shanlichin2021/ML-Japanese-Analysis-Tool](https://github.com/shanlichin2021/JPLT)
 
 ---
 
