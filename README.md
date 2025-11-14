@@ -1,6 +1,6 @@
 # Shan Li Chin | Recent Computer Science Graduate
 
-### **Seeking:** Full-Stack, Cybersecurity, and Data/AI Development Roles | **B.S. Computer Science & Minor in Cybersecurity (2025)**
+### **B.S. Computer Science & Minor in Cybersecurity (2025)**
 
 A **recent Computer Science graduate** focused on leveraging **Generative AI** and modern full-stack frameworks (**ReactJS, Vue.js, FastAPI**) to develop robust technical solutions.
 
